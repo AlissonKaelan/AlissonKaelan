@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Alisson Kaelan 🖐️
-## Tecnologias que estou aprendendo e usando no meu dia
+## Tecnologias que estou usando no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />

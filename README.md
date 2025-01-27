@@ -68,14 +68,6 @@ Olá, meu nome é Alisson Kaelan Valcacio Gadelha, tenho 20 anos e sou natural d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
-/>
 
 
 <br/>

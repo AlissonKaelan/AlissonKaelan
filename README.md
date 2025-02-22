@@ -70,9 +70,10 @@ Olá, meu nome é Alisson Kaelan Valcacio Gadelha, tenho 20 anos e sou natural d
 
 
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
+<br>
 
 
 ### 📊 Estatísticas

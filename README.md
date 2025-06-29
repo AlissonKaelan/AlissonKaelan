@@ -37,8 +37,7 @@ Atualmente, atuo como **Estagiário de Desenvolvimento de Sistemas** no **Hospit
 ---
 
 ## 🎖️ Destaques e Badges
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlissonKaelan&theme=tokyonight)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlissonKaelan&theme=transparent)](https://git.io/streak-stats)
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=AlissonKaelan)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---

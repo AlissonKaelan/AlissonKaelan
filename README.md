@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Alisson Kaelan! 👋🏽</h1>
-<h3 align="center">Um Desenvolvedor Full Stack apaixonado por criar soluções robustas e eficientes.</h3>
+<h3 align="center">Desenvolvedor Full Stack | PHP & Laravel | Entusiasta de Hardware & E-sports</h3>
 
 <br>
 
@@ -7,37 +7,42 @@
   <a href="https://www.linkedin.com/in/alisson-kaelan-65a924309" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Alisson%20Kaelan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  </p>
+</p>
 
 ---
 
 ## 👨🏽‍💻 Sobre Mim
 
-Sou **Alisson Kaelan Valcacio Gadelha**, um desenvolvedor de software do Rio Grande do Norte. Atualmente, estou focado em aprimorar minhas habilidades e construir uma carreira sólida na área de tecnologia.
+Sou **Alisson Kaelan Valcacio Gadelha**, desenvolvedor de software apaixonado por tecnologia, hardware e e-sports, vivendo no Rio Grande do Norte.
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UnP.
-- 💼 Atuando como **Estagiário de Desenvolvimento de Sistemas** no Hospital Rio Grande, onde aplico e expando meus conhecimentos em tecnologias web.
-- 🌱 Busco constantemente aprender novas ferramentas e metodologias para desenvolver aplicações eficientes, escaláveis e que gerem valor real.
-- 💡 Tenho um interesse especial por desenvolvimento backend, boas práticas de código e a aplicação de **padrões de arquitetura como MVC**.
+Atualmente, estou na reta final da minha graduação e focado profissionalmente no desenvolvimento de sistemas web complexos para a área da saúde, utilizando o ecossistema **PHP/Laravel**.
+
+- 🎓 Finalizando graduação em **Análise e Desenvolvimento de Sistemas** na UnP (Último semestre).
+- 💼 Atuando como **Estagiário de Desenvolvimento de Sistemas** no Hospital Rio Grande.
+- 🌱 Focado atualmente em arquitetura de software, **Docker** e frameworks JS como **Vue.js**.
+- 💡 Gosto de resolver problemas reais: transformar processos manuais e burocráticos em sistemas ágeis e intuitivos.
 
 ---
 
-## 🛠️ Habilidades & Ferramentas
+## 🛠️ Stack Tecnológica
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+Minhas principais ferramentas de trabalho:
 
 <div align="center">
 
-**Backend** <br>
+**Backend & Infra** <br>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" width="50px" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" width="50px" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" title="Spring Boot" width="50px" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" width="50px" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="50px" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="50px" style="margin-right: 10px;"/>
 </p>
 
 **Frontend** <br>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="50px" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue.js" width="50px" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" title="jQuery" width="50px" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML5" width="50px" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS3" width="50px" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="50px" style="margin-right: 10px;"/>
@@ -50,25 +55,26 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="50px" style="margin-right: 10px;"/>
 </p>
 
-**Ferramentas & Outros** <br>
+**Ferramentas & DevOps** <br>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" width="50px" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" title="Composer" width="50px" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" title="Maven" width="50px" style="margin-right: 10px;"/>
 </p>
 
 </div>
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Experiência & Projetos
 
 **Estagiário de Desenvolvimento de Sistemas** | Hospital Rio Grande  
 *(04/2025 – Atualmente)*
 
-- Desenvolvimento e manutenção de sistemas internos com **PHP**, seguindo a arquitetura **MVC** e gerenciando dependências com **Composer**.
-- Criação de interfaces responsivas e modernas utilizando frameworks como **Bootstrap** e **Tailwind CSS**.
-- Modelagem e otimização de consultas em bancos de dados **MySQL** para garantir a performance das aplicações.
-- Colaboração em projetos de inovação para a área da saúde, aplicando lógica de programação para resolver problemas complexos.
+Atuo no desenvolvimento Full Stack de soluções internas críticas para a gestão hospitalar.
+* 🛠️ **Tecnologias:** PHP 8, Laravel, MySQL, Bootstrap/Tailwind.
+* 🚀 **Projetos Principais:**
+    * **Gestão de Pleitos:** Sistema para controle de solicitações internas com níveis de aprovação.
+    * **Controle de Guias:** Otimização do fluxo de guias médicas.
+    * **Ata de Encontro:** Digitalização e registro de reuniões corporativas.
 
 ---

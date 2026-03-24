@@ -73,7 +73,6 @@ Minhas principais ferramentas de trabalho:
 Atuo no desenvolvimento Full Stack de soluções internas críticas para a gestão hospitalar.
 * 🛠️ **Tecnologias:** PHP 8, Laravel, MySQL, Bootstrap/Tailwind.
 * 🚀 **Projetos Principais:**
-    * **Gestão de Pleitos:** Sistema para controle de solicitações internas com níveis de aprovação.
     * **Controle de Guias:** Otimização do fluxo de guias médicas.
     * **Ata de Encontro:** Digitalização e registro de reuniões corporativas.
 
